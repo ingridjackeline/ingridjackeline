@@ -1,10 +1,10 @@
-### Oii, eu sou Ingrid Jackeline! 😊
+### Oii, eu sou Ingrid Jackeline! 😊💗
 
 
 <div>
   <a href="https://github.com/ingridjackeline">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ingridjackeline&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ingridjackeline&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <div style="display: inline_block"><br>
