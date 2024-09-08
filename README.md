@@ -8,7 +8,7 @@
 
 ##
 
-#### Linguagens de Programação
+### Linguagens de Programação
 <div style="display: inline_block"><br>
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -20,7 +20,9 @@
   <img align="center" alt="clojure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg">
 </div>
 
-#### Tecnologias e Ferramentas
+##
+
+### Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
@@ -33,7 +35,7 @@
 
 ##
 
-#### Contato
+### Contato
 <div style="display: inline-block;">
   <a href="mailto:ingrid.castro@ccc.ufcg.edu.br" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
